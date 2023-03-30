@@ -81,5 +81,19 @@ export default [
         ]
       }
     }
+  },
+  {
+    "header": "Makanan",
+    "description": "Makanan",
+    "child": [
+      {
+        "title": "Department",
+        "path": "/department",
+        "icon": "mdi:account-reactivate-outline",
+        "child": [],
+        "meta": {}
+      }
+    ],
+    "meta": {}
   }
 ]
